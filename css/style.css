@@ -1,7 +1,13 @@
 /* carousel on first page */
-/* .carousel-container {
-  height: 100vh;
+/* header {
+  margin-bottom: 2rem;
 } */
+/* attempt to move the circles down, but failed */
+
+.carousel-container {
+  /* border: darkred 2px solid; */
+  margin-bottom: 4rem;
+}
 /* this caused issues with the nav of carousel */
 .carousel-img {
   height: 80vh;
