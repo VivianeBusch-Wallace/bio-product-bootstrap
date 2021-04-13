@@ -24,6 +24,10 @@
 .carousel-text {
   color: darkblue;
 }
+/* carousel slide text  */
+.carousel-text h2 {
+  font-size: 5rem;
+}
 /* .img-box {
   display: flex;
   justify-content: center;
@@ -35,6 +39,9 @@ will come back to this later, it does not do what I want */
   background-color: rgba(0, 0, 139, 0.541);
   border-radius: 0.2rem;
 }
+/* circle thumbnails */
+
+/* footer */
 footer {
   display: flex;
   justify-content: space-between;
