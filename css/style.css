@@ -39,6 +39,14 @@ will come back to this later, it does not do what I want */
   background-color: rgba(0, 0, 139, 0.541);
   border-radius: 0.2rem;
 }
+/* carousel buttons */
+.prev-button,
+.next-button {
+  background: pink;
+  opacity: 0.6;
+  border: darkviolet 3px solid;
+}
+
 /* circle thumbnails */
 
 /* footer */
