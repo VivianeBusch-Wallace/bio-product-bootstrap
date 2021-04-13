@@ -1,3 +1,8 @@
+/* general setup */
+:root {
+  color: darkslateblue;
+}
+
 /* carousel on first page */
 /* header {
   margin-bottom: 2rem;
@@ -10,8 +15,8 @@
 }
 /* this caused issues with the nav of carousel */
 .carousel-img {
-  height: 80vh;
-  width: auto;
+  /* height: 80vh;
+  width: auto; */
   /* overflow: hidden; */
   opacity: 0.7;
   align-self: center;
