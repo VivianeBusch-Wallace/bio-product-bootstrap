@@ -1,7 +1,7 @@
 /* general setup */
-/* :root {
+* {
   color: darkslateblue;
-} */
+}
 
 /* carousel on first page */
 /* header {
@@ -44,7 +44,6 @@ will come back to this later, it does not do what I want */
 .next-button {
   background-color: pink;
   opacity: 0.6;
-  /* border: darkviolet 3px solid; */
 }
 
 /* circle thumbnails */
@@ -54,3 +53,24 @@ footer {
   display: flex;
   justify-content: space-between;
 }
+/* 
+What I have learned:
+- :root font color changes do not work, instead use * property
+- inspect - often need to check where something was applied, for example margins
+- adding your own classnames is tedious, coming up with great names is difficult and feels weird
+- I should have just copied and pasted from the beginning
+- there are no good exercises like freecodecamp to learn bootstrap
+- bootstrap 5 has little resources in terms of videos or cheat sheets
+- bootstrap was written in SASS
+- adding flex to the carousel is a disaster
+- because of the javascript specific changes are difficult
+- get the right size for pictures... this is so hard
+- <hr> is a page divider - will use it in the future
+- use square pictures for circles
+- read and understand the html first
+- hard to find the meaning of each class name in bootstrap
+- hard to find the classname in bootstrap that you need
+- use bootstrap classnames first to change things before overwriting with your own CSS
+- next time will be easier, I am sure!
+- finding out what changes with the JS part is very difficult in "inspect".
+ */
