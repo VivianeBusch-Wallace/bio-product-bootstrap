@@ -35,3 +35,7 @@ will come back to this later, it does not do what I want */
   background-color: rgba(0, 0, 139, 0.541);
   border-radius: 0.2rem;
 }
+footer {
+  display: flex;
+  justify-content: space-between;
+}
