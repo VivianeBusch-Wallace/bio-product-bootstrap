@@ -8,10 +8,18 @@
   width: auto;
   /* overflow: hidden; */
   opacity: 0.7;
+  align-self: center;
 }
 .carousel-text {
   color: darkblue;
 }
-.carousel-navbars {
+/* .carousel-img-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border: darkgoldenrod 2px solid;
+} */
+/* will come back to this later, it does not do what I want */
+.carousel-navbars-container {
   background-color: darkblue;
 }
