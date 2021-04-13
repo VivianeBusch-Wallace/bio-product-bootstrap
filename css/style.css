@@ -1,9 +1,13 @@
 /* carousel on first page */
-.carousel-container {
+/* .carousel-container {
   height: 100vh;
-}
+} */
+/* this caused issues with the nav of carousel */
 .carousel-img {
   height: 80vh;
   width: auto;
-  overflow: hidden;
+  /* overflow: hidden; */
+}
+.carousel-text {
+  color: darkblue;
 }
