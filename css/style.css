@@ -42,9 +42,9 @@ will come back to this later, it does not do what I want */
 /* carousel buttons */
 .prev-button,
 .next-button {
-  background: pink;
+  background-color: pink;
   opacity: 0.6;
-  border: darkviolet 3px solid;
+  /* border: darkviolet 3px solid; */
 }
 
 /* circle thumbnails */
