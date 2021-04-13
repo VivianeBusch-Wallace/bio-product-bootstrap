@@ -13,13 +13,14 @@
 .carousel-text {
   color: darkblue;
 }
-/* .carousel-img-container {
+/* .img-box {
   display: flex;
   justify-content: center;
   align-content: center;
   border: darkgoldenrod 2px solid;
-} */
-/* will come back to this later, it does not do what I want */
+}
+will come back to this later, it does not do what I want */
 .carousel-navbars-container {
-  background-color: darkblue;
+  background-color: rgba(0, 0, 139, 0.541);
+  border-radius: 0.2rem;
 }
